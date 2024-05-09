@@ -13,4 +13,4 @@
 
 </div><br/>
 
-Estudante de Engenharia de Software da Universidade de Brasília 
+Estudante de Engenharia de Software na Universidade de Brasília 
