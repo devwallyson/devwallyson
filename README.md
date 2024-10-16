@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Wallyson Souza 🖐️
  
-[![telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wallyson-souza)
-
 ![Wallyson GitHub stats](https://github-readme-stats.vercel.app/api?username=devwallyson&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwallyson&size_weight=0.5&count_weight=0.5)
